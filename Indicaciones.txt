@@ -1,0 +1,11 @@
+Desde eclipse se puede exportar el archivo:
+
+Commo java runfile
+Decidir la carpeta
+ponerle un nombre al jar
+
+en la consola para ejecutarlo:
+
+java -jar nombrearchivo.jar
+
+//OJO: si no estas en el directorio correcto es necesario meter la direccion del archivo!!
